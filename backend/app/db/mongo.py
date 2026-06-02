@@ -1,0 +1,1 @@
+print("MongoDB connected successfully")
